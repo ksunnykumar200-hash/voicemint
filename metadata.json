@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Voicemint",
+  "description": "An application that uses Gemini to dub videos. Upload a video, provide a script, and generate new audio in a selected voice. Preview the dubbed video in real-time.",
+  "requestFramePermissions": []
+}
